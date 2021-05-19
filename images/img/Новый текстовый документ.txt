@@ -1,0 +1,14 @@
+<div class="servis_block_left2*">
+                            <div class="servis_block_anim2*"> 
+                          <div class="servis_block_text2*">
+                              <img src="./img/mini_logo.JPG" class="servis_img2*">
+                              <div class="servis_tex*">Statistics</div>
+                            </div>
+                            <img src="./img/down.png" class="servis_down2*">
+                          </div>
+                          <div class="img_text_servis2*">
+                            <img src="./img/bg_servis.jpg" class="img_servis2*">
+                            <div class="imgtext">
+                              <div class="img_servis_text2*">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna</div>
+                            </div>
+                          </div>

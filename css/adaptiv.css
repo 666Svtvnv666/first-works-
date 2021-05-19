@@ -1,0 +1,145 @@
+@media (max-width:1980px) and (min-width:1600px){
+
+}
+@media (max-width:1599px) and (min-width:1300px){
+    .header{
+        width: 1500px;
+        height: 700px;
+    }
+    .conteiner .easy_text3{
+        margin: 0 442px;
+    }
+    .conteiner .servis_block{
+        margin: 20px 287px;
+    }
+    .conteiner .slider_item {
+        padding: 13px 443px;
+    }
+    .conteiner .twiter_logo {
+        margin-left: 580px;
+    }
+    .conteiner .boxUsText {
+        padding: 17px 378px;
+    }
+}
+@media (max-width:1299px) and (min-width:1100px){
+    .header{
+        width: 1466px;
+        height: 686px;
+    }
+    .conteiner .easy_text3{
+        margin: 0 417px;
+    }
+    .conteiner .servis_block{
+        margin: 20px 287px;
+    }
+    .conteiner .slider_item {
+        padding: 13px 412px;
+    }
+    .conteiner .twiter_logo {
+        margin-left: 580px;
+    }
+    .conteiner .boxUsText {
+        padding: 17px 378px;
+    }
+}
+@media (max-width:1099px) and (min-width:557px){
+    .header{
+        width: 1257px;
+        height: 586px;
+    }
+    .conteiner .easy_text3{
+        margin: 0px 356px;
+    }
+    .header .text_elements_h {
+        font-size: 47px;
+    }
+    .header .text_elements_h2 {
+        font-size: 15px;
+    }
+    .conteiner .servis_block{
+        margin: 20px 171px;
+    }
+    .conteiner .slider_item {
+        padding: 2px 268px;
+    }
+    .conteiner .twiter_logo {
+       display: none;
+    }
+    .conteiner .boxUsText {
+        padding: 17px 261px;
+    }
+    .conteiner .name__lastname {
+        display: none;
+    }
+}
+@media (max-width:556px) and (min-width:320px){
+    .header{
+        width: 1466px;
+        height: 686px;
+    }
+    .conteiner .easy_text3 {
+        margin: -5px 76px;
+        width: 414px;
+    }
+    .conteiner .servis_block{
+        margin: 20px 287px;
+    }
+    .conteiner .slider_item {
+        padding: 13px 45px;
+    }
+    .conteiner .twiter_logo {
+        margin-left: 580px;
+    }
+    .conteiner .boxUsText {
+        display: none;
+    }
+    .textUs{
+        display: none;
+    }
+
+    .header .logo_header_botton {
+        display: none;
+    }
+    .header .element_text {
+        margin: 0 -65px;
+    }
+    .header .text_elements_h2 {
+       width:460px;
+    }
+    .conteiner .icon_easy{
+        display: none;
+    }
+    .conteiner .count_text {
+        font-size: 14px;
+        margin-top: 83px;
+        margin-left: 15px;
+    }
+    .conteiner .servis_glav_tex{
+        display: none;
+    }
+    .conteiner .servis{
+        display: none;
+    }
+    .conteiner .testimonia {
+        display: none;
+    }
+    .conteiner .name__lastname {
+      display: none;
+    }
+    .footer .img_fooret {
+        width: 116px;
+        height: 24px;
+    }
+    .footer .footer_li {
+        display: none;
+    }
+    .footer .mini_item {
+        width: 163px;
+        margin: 82px 130px;
+    }
+    .footer{
+        height: 351px;
+    }
+}
+
